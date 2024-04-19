@@ -14,8 +14,9 @@ O layout se adaptará a diferentes tamanhos de tela e dispositivos, graças às 
 <li>styles.css:</li> O arquivo CSS contém as regras de estilo responsáveis pelo layout e apresentação dos cartões de produto.
 
 <li>imagens/:</li> Esta pasta contém as imagens usadas no projeto.
-</ul>
-## Layout com Flexbox
+</ul><br>
+
+##  Layout com Flexbox
 O layout principal deste projeto é alcançado usando o Flexbox, um poderoso modelo de layout CSS que permite alinhar e distribuir facilmente elementos dentro de um contêiner. Aqui está uma visão geral das propriedades Flexbox usadas neste projeto:
 <ul>
 <li>main:</li> Representa o contêiner principal dos cartões de produto. Ele tem uma cor de fundo e preenchimento para criar espaço entre o conteúdo e as bordas da página.
